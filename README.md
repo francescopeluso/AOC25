@@ -1,6 +1,6 @@
 # 🎄 Advent of Code '25
 
-These are my AOC '245submissions. \
+These are my AOC '25 submissions. \
 I will be using mostly Python to solve these problems, I don't even know if I will be able to complete all of them in time.
 
 ---
